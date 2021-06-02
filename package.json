@@ -1,6 +1,6 @@
 {
   "name": "@shattercms/rebuild",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ShatterCMS submodule for rebuilding Dokku apps using dokku-rebuild.",
   "keywords": [
     "shattercms"
